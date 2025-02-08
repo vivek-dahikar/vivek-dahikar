@@ -9,7 +9,7 @@ Currently, my primary focus is on exploring the fascinating field of Agentic AI 
 ## 🛠️ Technologies & Tools
 - **Frontend Development:** Angular, JavaScript, TypeScript
 - **Backend Development:** Django Rest Framework (DRF) with Python
-- **AI** LangChain, LangGraph, CrewAI, n8n, Prompt Engineering, AI agentic architecture, RAG, vector databases like Chroma DB, FAISS.
+- **AI**: LangChain, LangGraph, CrewAI, n8n, Prompt Engineering, AI agentic architecture, RAG, vector databases like Chroma DB, FAISS.
 - **Version Control:** Bitbucket, GitHub, SVN
 
 ## 🌱 Learning Goals
